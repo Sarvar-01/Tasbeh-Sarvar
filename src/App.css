@@ -1,0 +1,17 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.box {
+    margin-top: 250px;
+    text-align: center;
+    justify-content: center;
+}
+
+body{
+    background-color: #153243;
+}
+
+p{
+    color: #fff;
+    font-weight: 700;
+    font-size: 55px;
+}
